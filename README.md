@@ -27,3 +27,5 @@ The LSTM Autoencoder significantly outperformed Isolation Forest by capturing te
 
 ## Note
 The dataset is not included in this repository.
+The dataset used in this project was sourced from Kaggle and contains multivariate equipment sensor readings.
+The dataset is not included in this repository to keep the project lightweight and focused on modeling.
